@@ -12,6 +12,9 @@ Generates a series of odd numbers based on the input pattern described in the qu
 Program-3.py
 Counts how many numbers in a list are divisible by each number from 1 to 9.
 
+Program-4.py
+Generates the first 'a' odd numbers based on the given integer input.
+
 How to Run
 
 Make sure you have Python 3 installed. Run each program like this:
@@ -20,4 +23,5 @@ Make sure you have Python 3 installed. Run each program like this:
 python Program-1.py
 python Program-2.py
 python Program-3.py
+python Program-4.py
 
